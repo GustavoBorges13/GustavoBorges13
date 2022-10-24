@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 - 🔭 I’m currently working on game development.
 - 🌱 I’m currently learning Java and Python.
