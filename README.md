@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 I’m currently working on game development.
 - 🌱 I’m currently learning Java and Python.
 - 👯 I’m looking to collaborate on find error snippets.
