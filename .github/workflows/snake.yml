@@ -4,9 +4,10 @@
   uses: Platane/snk@v2.1.0
   with:
     # github user name
-    github_user_name: 
+    github_user_name: GustavoBorges13 
     # list of files to generate.
-one file per line. Each output can be customized with options as query string.
+    gif_out_path: dist/github-contribution-grid-snake.gif
+    svg_out_path: dist/github-contribution-grid-snake.svg
 
  supported query string options:
 
