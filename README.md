@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on game development
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on find error snippets
-- 👾 I’m currently an intern in the IT service-desk area
+- 👾 I’m currently an intern in the IT service-desk area (HPE AUTOMOTORES DO BRASIL LTDA)
 - 🖥️ Finishing college of Computer Science at UFCAT
 - 📫 Contact me at ggustavo.borges13@gmail.com
 
