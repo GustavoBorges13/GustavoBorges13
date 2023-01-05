@@ -7,11 +7,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/GustavoBorges13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBorges13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorges13&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoBorges13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
