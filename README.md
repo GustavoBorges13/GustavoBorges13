@@ -13,7 +13,7 @@
   <img align="center" alt="Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/?size=256&id=55251&format=png" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="CPlusPlus" height="30" width="40" src="https://img.icons8.com/?size=256&id=2T6TKY6whzgV&format=png" />
+  <img align="center" alt="CPlusPlus" height="35" width="35" src="https://img.icons8.com/?size=256&id=2T6TKY6whzgV&format=png" />
   <img align="center" alt="BAT" height="30" widht="40" src="https://img.icons8.com/?size=256&id=l8BrXq94xzJ9&format=png">
   <img align='center' alt="Shell" height="30" widht="40" src="https://img.icons8.com/?size=256&id=19292&format=png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
