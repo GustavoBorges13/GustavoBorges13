@@ -10,13 +10,18 @@
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoBorges13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" widht="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">
-  <img align="center" alt="PHP" height="30" widht="40" src="https://pic.onlinewebfonts.com/svg/img_49183.png">
+  <img align="center" alt="C#" height="30" width="40" src="https://img.icons8.com/?size=256&id=55251&format=png" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="CPlusPlus" height="30" width="40" src="https://img.icons8.com/?size=256&id=2T6TKY6whzgV&format=png" />
+  <img align="center" alt="BAT" height="30" widht="40" src="https://img.icons8.com/?size=256&id=l8BrXq94xzJ9&format=png">
+  <img align='center' alt="Shell" height="30" widht="40" src="https://img.icons8.com/?size=256&id=19292&format=png">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="WordPress" height="30" widht="40" src="https://img.icons8.com/?size=256&id=13664&format=png">
+  <img align="center" alt="PHP" height="30" widht="40" src="https://img.icons8.com/?size=256&id=UGYn5TapNioV&format=png">
   <img align='center' alt="HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+
+
   <!--<img align='center' alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align='center' alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
 </div>
