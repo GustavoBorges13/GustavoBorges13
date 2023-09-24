@@ -29,5 +29,5 @@
   <a href="https://www.linkedin.com/in/gustavo-borgez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![snake gif](https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg)
-  [![Gustavo Borges github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoBorges13&bg_color=fffff0&color=914E94&line=E56346&point=24292e&area=true&hide_border=true)](https://github.com/GustavoBorges13/github-readme-activity-graph)
+  [![Gustavo Borges github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorges13&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
