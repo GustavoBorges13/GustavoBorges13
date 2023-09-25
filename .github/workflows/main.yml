@@ -46,10 +46,10 @@ jobs:
           test -f dist/github-contribution-grid-snake-dark.svg
           test -f dist/github-contribution-grid-snake.gif
 
-     - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: gh-pages
-          build_dir: public
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
