@@ -33,6 +33,8 @@
   <a href = "mailto:ggustavo.borges13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-borgez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+
  ![Snake animation](https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg)
+ [![main](https://github.com/GustavoBorges13/GustavoBorges13/actions/workflows/main.yml/badge.svg?event=schedule)](https://github.com/GustavoBorges13/GustavoBorges13/actions/workflows/main.yml)
   [![Gustavo Borges github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorges13&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
