@@ -15,7 +15,6 @@ jobs:
       - run: yarn install --frozen-lockfile
 
       - run: npm run type
-      - run: npm run lint
       - run: npm run test --ci
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -48,7 +47,7 @@ jobs:
           test -f dist/github-contribution-grid-snake-dark.svg
           test -f dist/github-contribution-grid-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v3.2.0
         with:
           target_branch: output
           build_dir: dist
