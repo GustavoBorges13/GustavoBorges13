@@ -8,7 +8,7 @@ runs:
 
 inputs:
   github_user_name:
-    description: "github user name"
+    description: GustavoBorges13
     required: true
   outputs:
     required: false
