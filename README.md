@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on game development and software creation
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java and C#
 - 👯 I’m looking to collaborate on find error snippets
 - 👾 I’m currently an intern in the IT service-desk area (HPE AUTOMOTORES DO BRASIL LTDA)
 - 🖥️ Finishing college of Computer Science at UFCAT
