@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on game development and software creation
 - 🌱 I’m currently learning Java and C#
 - 👯 I’m looking to collaborate on find error snippets
-- 👾 Passionate about reverse engineering, ethical hacking, game development, graphic design, and programming.
+- 👾 Interested in reverse engineering, ethical hacking, game development, graphic design, and programming.
 - 🖥️ Finishing college of Computer Science at UFCAT📫 Contact me at ggustavo.borges13@gmail.com
 
 ##
