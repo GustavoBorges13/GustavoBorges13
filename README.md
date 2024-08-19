@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning Java and C#
 - 👯 I’m looking to collaborate on find error snippets
 - 👾 Interested in reverse engineering, ethical hacking, game development, graphic design, and programming.
-- 🖥️ Finishing college of Computer Science at UFCAT📫 Contact me at ggustavo.borges13@gmail.com
+- 🖥️ Finishing college of Computer Science at UFCAT
+- 📫 Contact me at ggustavo.borges13@gmail.com
 
 ##
 
