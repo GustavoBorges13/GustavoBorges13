@@ -3,7 +3,10 @@
 - 👯 I’m looking to collaborate on find error snippets
 - 👾 Interested in reverse engineering, ethical hacking, game development, graphic design, and programming.
 - 🖥️ Finishing college of Computer Science at UFCAT
-- 📫 Contact me at ggustavo.borges13@gmail.com
+- 📫 Contact me at: [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/aslordx)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavobpsilva)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ggustavo.borges13@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-borgez)
 
 ##
 
@@ -29,9 +32,6 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/gustavobpsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ggustavo.borges13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-borgez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg)
   [![Gustavo Borges github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorges13&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
