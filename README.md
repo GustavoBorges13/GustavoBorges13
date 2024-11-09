@@ -1,8 +1,13 @@
-- 🔭 I’m currently working on game development and software creation
-- 🌱 I’m currently learning Java and C#
-- 👯 I’m looking to collaborate on find error snippets
-- 👾 Interested in reverse engineering, ethical hacking, game development, graphic design, and programming.
-- 🖥️ Finishing college of Computer Science at UFCAT
+### 👋 Hello! I'm Gustavo Borges
+--------------------------------
+
+- 🎓 Computer Science student at UFCAT, with a background in Industrial Automation and Administrative Assistance from SESI SENAI Catalão-GO.
+- 🤖 STEAM enthusiast who participated in robotics competitions like FIRST LEGO League and FIRST Tech Challenge.
+- 🛠️ Passionate about DevOps and DevSecOps, specializing in CI/CD pipeline automation and cloud security.
+- 🔧 Skilled in tools like Docker, Kubernetes, AWS, Terraform, and Jenkins.
+- 💻 Hands-on experience in technical support and system automation from my time at HPE Automotores do Brasil LTDA.
+- 🚀 Currently focused on expanding my expertise in DevOps and Cloud Security.
+
 - 📫 Contact me at: [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/aslordx)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavobpsilva)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ggustavo.borges13@gmail.com)
