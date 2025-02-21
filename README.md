@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Gustavo Borges
 --------------------------------
 
-- 🎓 Computer Science student at UFCAT, with a background in Industrial Automation and Administrative Assistance from SESI SENAI Catalão-GO.
+- 🎓 Computer Science student at UFCAT, with a background in Industrial Automation and Administrative Assistance from SESI SENAI Catalão-GO in Brazil.
 - 🤖 STEAM enthusiast who participated in robotics competitions like FIRST LEGO League and FIRST Tech Challenge.
 - 🛠️ Passionate about DevOps and DevSecOps, specializing in CI/CD pipeline automation and cloud security.
 - 🔧 Skilled in tools like Docker, Kubernetes, AWS, Terraform, and Jenkins.
