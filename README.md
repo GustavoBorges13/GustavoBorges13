@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CDA374&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Borges!;Entusiasta+de+DevOps+%26+Cloud;Amo+Automa%C3%A7%C3%A3o+e+TI" alt="Typing SVG" />
 
   <!-- Seu Dev Card -->
-  <a href="https://app.daily.dev/gustavoborges13"><img src="https://api.daily.dev/devcards/v2/LhOq5waTAQb8mO2fPRtpH.png?type=wide&r=nzp" width="652" alt="Gustavo Borges's Dev Card"/></a>
+  <a href="https://app.daily.dev/gustavoborges13"><img src="https://api.daily.dev/devcards/v2/LhOq5waTAQb8mO2fPRtpH.png?type=wide&r=2xf" width="652" alt="Gustavo Borges's Dev Card"/></a>
 
   <br>
 
@@ -29,7 +29,7 @@ Hoje, como estudante de Ciência da Computação, estou direcionando toda essa b
   <a href="https://www.linkedin.com/in/gustavo-borgez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/gustavobpsilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:ggustavo.borges13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://linktr.ee/aslordx" target="_blank"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
+  <a href="https://linktr.ee/GustavoBorges13" target="_blank"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
 </p>
 
 ---
@@ -41,11 +41,16 @@ Hoje, como estudante de Ciência da Computação, estou direcionando toda essa b
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,githubactions,grafana" alt="Cloud & DevOps Tools" />
 </p>
 
-#### 👨‍💻 Linguagens & Backend
+<!-- SEÇÃO ATUALIZADA AQUI 👇 -->
+#### 👨‍💻 Backend & Linguagens
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,csharp,c,cpp,html" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,cs,c,cpp,bash" alt="Backend & Languages" />
 </p>
 
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,wordpress" alt="Frontend Technologies" />
+</p>
 ---
 
 ### 📊 Estatísticas do GitHub
