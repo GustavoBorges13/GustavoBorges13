@@ -66,7 +66,7 @@ Hoje, como estudante de Ciência da Computação, estou direcionando toda essa b
 
 ### 🔝 Principais Repositórios Contribuídos
 <div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=999" alt="Top Contributed Repos" />
 </div>
 
 <br>
