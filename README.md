@@ -1,44 +1,74 @@
-### 👋 Hello! I'm Gustavo Borges
---------------------------------
+<!-- Header -->
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=542917&height=120&section=header)
 
-- 🎓 Computer Science student at UFCAT, with a background in Industrial Automation and Administrative Assistance from SESI SENAI Catalão-GO in Brazil.
-- 🤖 STEAM enthusiast who participated in robotics competitions like FIRST LEGO League and FIRST Tech Challenge.
-- 🛠️ Passionate about DevOps and DevSecOps, specializing in CI/CD pipeline automation and cloud security.
-- 🔧 Skilled in tools like Docker, Kubernetes, AWS, Terraform, and Jenkins.
-- 💻 Hands-on experience in technical support and system automation from my time at HPE Automotores do Brasil LTDA.
-- 🚀 Currently focused on expanding my expertise in DevOps and Cloud Security.
+<div align="center">
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CDA374&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Borges!;Entusiasta+de+DevOps+%26+Cloud;Amo+Automa%C3%A7%C3%A3o+e+TI" alt="Typing SVG" />
 
-- 📫 Contact me at: [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/aslordx)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavobpsilva)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ggustavo.borges13@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-borgez)
+  <!-- Seu Dev Card -->
+  <a href="https://app.daily.dev/gustavoborges13"><img src="https://api.daily.dev/devcards/v2/LhOq5waTAQb8mO2fPRtpH.png?type=wide&r=nzp" width="652" alt="Gustavo Borges's Dev Card"/></a>
 
-##
+  <br>
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=GustavoBorges13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C#" height="35" width="35" src="https://img.icons8.com/?size=256&id=55251&format=png" />
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="CPlusPlus" height="35" width="35" src="https://img.icons8.com/?size=256&id=2T6TKY6whzgV&format=png" />
-  <img align="center" alt="BAT" height="30" widht="40" src="https://img.icons8.com/?size=256&id=l8BrXq94xzJ9&format=png">
-  <img align='center' alt="Shell" height="30" widht="40" src="https://img.icons8.com/?size=256&id=19292&format=png">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="WordPress" height="30" widht="40" src="https://img.icons8.com/?size=256&id=13664&format=png">
-  <img align="center" alt="PHP" height="30" widht="40" src="https://img.icons8.com/?size=256&id=UGYn5TapNioV&format=png">
-  <img align='center' alt="HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align='center' alt="HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-
-  <!--<img align='center' alt="CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align='center' alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
+  <!-- Tags de Tópicos -->
+  <img src="https://img.shields.io/badge/DevOps-CDA374?style=for-the-badge" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Cloud-542917?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Backend-CDA374?style=for-the-badge" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Automation-542917?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/System_Administration-CDA374?style=for-the-badge" alt="System Administration"/>
 </div>
 
-##
+### 🚀 Minha Jornada até DevOps
 
-<div> 
-  
- ![Snake animation](https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg)
-  [![Gustavo Borges github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoBorges13&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  [![main](https://github.com/GustavoBorges13/GustavoBorges13/actions/workflows/main.yml/badge.svg?event=schedule)](https://github.com/GustavoBorges13/GustavoBorges13/actions/workflows/main.yml)
+Minha paixão por **otimização de processos**, que começou na automação industrial, hoje se aplica ao ciclo de vida de software. Com uma base sólida em **administração de sistemas e infraestrutura** adquirida em mais de 2 anos de experiência em Service Desk, percebi que meu verdadeiro interesse está em criar soluções escaláveis e automatizadas.
+
+Hoje, como estudante de Ciência da Computação, estou direcionando toda essa bagagem para o universo **DevOps e Cloud**, com foco em automação de pipelines CI/CD, segurança e infraestrutura como código.
+
+### 🌐 Me encontre em:
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-borgez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/gustavobpsilva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:ggustavo.borges13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://linktr.ee/aslordx" target="_blank"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,githubactions,grafana" alt="Cloud & DevOps Tools" />
+</p>
+
+#### 👨‍💻 Linguagens & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,bash,csharp,c,cpp,html" alt="Programming Languages" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="left">
+  <!-- Card de Stats Geral -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoBorges13&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <!-- Card de Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorges13&background=291714&stroke=CDA374&ring=CDA374&fire=CDA374&currStreakNum=FFFFFF&sideNums=CDA374&currStreakLabel=CDA374&sideLabels=CDA374&dates=CDA374&hide_border=true" alt="GitHub Streak" /><br/>
+  <!-- Card de Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorges13&layout=compact&bg_color=291714&title_color=CDA374&text_color=CDA374&hide_border=true" alt="Top Languages" />
 </div>
+
+### 🔝 Principais Repositórios Contribuídos
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+<br>
+
+<div align="center"> 
+  <img src="https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Footer -->
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=542917&height=120&section=footer)
