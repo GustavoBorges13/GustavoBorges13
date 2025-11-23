@@ -72,7 +72,7 @@ Hoje, como estudante de Ciência da Computação, estou direcionando toda essa b
 <br>
 
 <div align="center"> 
-  <img src="https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/GustavoBorges13/GustavoBorges13/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Footer -->
