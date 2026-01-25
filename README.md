@@ -57,16 +57,16 @@ Hoje, como estudante de Ciência da Computação, estou direcionando toda essa b
 
 <div align="left">
   <!-- Card de Stats Geral -->
-  <img src="https://github-readme-stats-ten-phi-61.vercel.app/api?username=GustavoBorges13&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-ten-phi-61.vercel.app/api?username=GustavoBorges13&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
   <!-- Card de Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorges13&background=291714&stroke=CDA374&ring=CDA374&fire=CDA374&currStreakNum=FFFFFF&sideNums=CDA374&currStreakLabel=CDA374&sideLabels=CDA374&dates=CDA374&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorges13&background=291714&stroke=CDA374&ring=CDA374&fire=CDA374&currStreakNum=FFFFFF&sideNums=CDA374&currStreakLabel=CDA374&sideLabels=CDA374&dates=CDA374&hide_border=true" alt="GitHub Streak"/><br/>
   <!-- Card de Top Langs -->
   <img src="https://github-readme-stats-ten-phi-61.vercel.app/api/top-langs/?username=GustavoBorges13&layout=compact&bg_color=291714&title_color=CDA374&text_color=CDA374&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🔝 Principais Repositórios Contribuídos
 <div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=999" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bust=999" alt="Top Contributed Repos"/>
 </div>
 
 <br>
