@@ -86,8 +86,20 @@ Atualmente, como estudante de **Ciência da Computação**, direciono essa bagag
 ---
 
 ## 🔝 Principais Repositórios Contribuídos
-<div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GustavoBorges13&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<div align="center">
+
+<a href="https://github.com/hyde-project/hyde">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hyde-project&repo=hyde&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+</a>
+
+<a href="https://github.com/microsoft/terminal">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=terminal&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+</a>
+
+<a href="https://github.com/brave/brave-browser">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=brave&repo=brave-browser&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+</a>
+
 </div>
 
 <br>
