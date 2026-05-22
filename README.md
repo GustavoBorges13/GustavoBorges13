@@ -76,11 +76,11 @@ Atualmente, como estudante de **Ciência da Computação**, direciono essa bagag
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats-ten-phi-61.vercel.app/api?username=GustavoBorges13&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-delta-lovat-31.vercel.app/api?username=GustavoBorges13&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoBorges13&background=291714&stroke=CDA374&ring=CDA374&fire=CDA374&currStreakNum=FFFFFF&sideNums=CDA374&currStreakLabel=CDA374&sideLabels=CDA374&dates=CDA374&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats-ten-phi-61.vercel.app/api/top-langs/?username=GustavoBorges13&layout=compact&bg_color=291714&title_color=CDA374&text_color=CDA374&hide_border=true" />
+  <img src="https://github-readme-stats-delta-lovat-31.vercel.app/api/top-langs/?username=GustavoBorges13&layout=compact&bg_color=291714&title_color=CDA374&text_color=CDA374&hide_border=true" />
 </div>
 
 ---
@@ -89,15 +89,15 @@ Atualmente, como estudante de **Ciência da Computação**, direciono essa bagag
 <div align="center">
 
 <a href="https://github.com/hyde-project/hyde">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=hyde-project&repo=hyde&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-delta-lovat-31.vercel.app/api/pin/?username=hyde-project&repo=hyde&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
 </a>
 
 <a href="https://github.com/microsoft/terminal">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=terminal&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-delta-lovat-31.vercel.app/api/pin/?username=microsoft&repo=terminal&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
 </a>
 
 <a href="https://github.com/brave/brave-browser">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=brave&repo=brave-browser&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-delta-lovat-31.vercel.app/api/pin/?username=brave&repo=brave-browser&bg_color=291714&title_color=CDA374&text_color=CDA374&icon_color=CDA374&hide_border=true" />
 </a>
 
 </div>
